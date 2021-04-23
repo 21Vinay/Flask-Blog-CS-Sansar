@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql+mysqlconnector://root:@localhost/cs-sansar",
+    "prod_uri": "mysql+mysqlconnector://root:@localhost/cs-sansar",
+    "blog_name": "cs-sansar",
+    "tag-line" : "Heaven for programmers",
+    "gmail-user": "your-mail@mail.com",
+    "gmail-password": "your_pass",
+    "about_text": "CS-SANSAR or the computer science world is the absolute and right place for the geeks who want to learn trending technologies. We at CS-SANSAR  provide you with efficient roadmaps to master any new tech.",
+    "about_dev_text": "Hi everyone ! This is Vinayak . I like to blog with a deep passion for learning and tutoring latest technology.",
+    "no_of_posts": 2,
+    "login_image": "login.jpg",
+    "admin_user" : "admin",
+    "admin_password": "admin@123",
+    "upload_location": "C:\\Users\\asus\\PycharmProjects\\Flask-blog\\static\\img"
+
+  }
+}
